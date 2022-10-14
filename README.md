@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cy184
 - 👀 I’m interested in data science projects
 - 🌱 I’m currently learning SQL/MySQL, Power Bi, Python
-- 💞️ I’m looking to collaborate on a e-commerce project or content creation
+- 💞️ I’m looking to collaborate on an e-commerce project or content creation
 
 
 <!---
